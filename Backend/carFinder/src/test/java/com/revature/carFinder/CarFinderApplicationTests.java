@@ -1,10 +1,10 @@
-package com.autoinventory;
+package com.revature.carFinder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryApplicationTests {
+class CarFinderApplicationTests {
 
 	@Test
 	void contextLoads() {
